@@ -1,6 +1,7 @@
-# Hi there! I'm Dnyaneshwar Bhandari👋
+#                     Hi there! I'm Dnyaneshwar Bhandari👋
+##                              DevOps Engineer
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and contributing to the open-source community.
+Welcome to my GitHub profile! I’m a DevOps enthusiast who enjoys building, automating, and deploying real-world projects while contributing to open-source communities.
 ---
 ## 💫 About Me
 
